@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "mak-eror49.workers.dev";
-let APP_DOMAIN = "bocoralusmase";
+let serviceName = "narasiku.xyz";
+let APP_DOMAIN = "support.udemy.com";
 
 let prxIP = "";
 let cachedPrxList = [];
@@ -15,7 +15,7 @@ const neko = "Y2xhc2g=";
 
 const PORTS = [443, 80];
 const PROTOCOLS = [atob(horse), atob(flash), "ss"];
-const SUB_PAGE_URL = "https://bocoralusmase.mak-eror49.workers.dev/bocoralusmase";
+const SUB_PAGE_URL = "https://support.udemy.com.narasiku.xyz/bocoralusmase";
 const KV_PRX_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/kvProxyList.json";
 const PRX_BANK_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
 const DNS_SERVER_ADDRESS = "8.8.8.8";
